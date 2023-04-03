@@ -1,0 +1,2 @@
+C:\Users\monto\source\repos\Student Test Project\Debug\Student Test Project.exe
+C:\Users\monto\source\repos\Student Test Project\Debug\Student Test Project.pdb
